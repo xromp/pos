@@ -1,0 +1,10 @@
+D:\Project\POStrans\V2\A\POS\POS\bin\Debug\POS.exe
+D:\Project\POStrans\V2\A\POS\POS\bin\Debug\POS.pdb
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.frmpos.resources
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.exe.licenses
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.exe
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.pdb
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.views.frmItems.resources
+D:\Project\POStrans\V2\A\POS\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
